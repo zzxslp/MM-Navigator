@@ -1,10 +1,10 @@
 # GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation
 [GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation](https://arxiv.org/pdf/.pdf)
 
-### Introduction
+<!-- ### Introduction -->
 
 <p align="center">
-  <img src="GUI_demo.gif" width="100%"/>
+  <img src="GUI_demo.gif" width="80%"/>
 </p>
 
 <!-- ### Citation
