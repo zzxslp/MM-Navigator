@@ -15,12 +15,10 @@ A demo figure using GPT-4V to shop on the Amazon app with an iphone:
 If you find our work helpful to your research, please consider citing the paper:
 
 ```
-@misc{yan2023gpt4v,
-      title={GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation}, 
-      author={An Yan and Zhengyuan Yang and Wanrong Zhu and Kevin Lin and Linjie Li and Jianfeng Wang and Jianwei Yang and Yiwu Zhong and Julian McAuley and Jianfeng Gao and Zicheng Liu and Lijuan Wang},
-      year={2023},
-      eprint={2311.07562},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{yan2023gpt,
+  title={GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation},
+  author={Yan, An and Yang, Zhengyuan and Zhu, Wanrong and Lin, Kevin and Li, Linjie and Wang, Jianfeng and Yang, Jianwei and Zhong, Yiwu and McAuley, Julian and Gao, Jianfeng and others},
+  journal={arXiv preprint arXiv:2311.07562},
+  year={2023}
 }
 ```
